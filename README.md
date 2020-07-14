@@ -1,3 +1,3 @@
-# SkyLand-Wyspa-marze-
+# SkyLand_Wyspa_marzen
 Nowa myśle fajna gra.
 TAK CHYBA FAJNA...
