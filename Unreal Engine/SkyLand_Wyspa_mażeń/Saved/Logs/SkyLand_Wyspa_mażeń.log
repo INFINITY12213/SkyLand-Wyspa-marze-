@@ -664,3 +664,143 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.14-13.37.26:374][  1]LogAssetRegistry: Asset discovery search completed in 7.3205 seconds
 [2020.07.14-13.37.26:377][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.07.14-14.57.57:683][871]LogSlate: Took 0.018083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.14-14.59.12:298][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.07.14-14.59.24:164][461]LogSlate: Window 'Save Level As' being destroyed
+[2020.07.14-14.59.48:169][ 88]LogSlate: Window 'Save Level As' being destroyed
+[2020.07.14-14.59.48:193][ 88]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.14-14.59.48:523][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.07.14-14.59.48:719][ 88]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand15329D8E41472D0D00458D8DF23B951B.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-14.59.48:789][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-14.59.48:806][ 88]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltData328CC2194772995D525B89924ED00B5E.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-14.59.48:817][ 88]LogFileHelpers: Saving map 'SkyLand' took 0.644
+[2020.07.14-14.59.48:846][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-14.59.48:846][ 88]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-14.59.48:846][ 88]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-14.59.54:162][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.07.14-14.59.54:181][384]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand6D145D4345E18AB0582E508EE42D089C.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-14.59.54:189][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-14.59.54:214][384]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltData390400784E6461964760C0B86F9946BA.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-14.59.54:223][384]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-14.59.54:223][384]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-14.59.54:223][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-14.59.59:740][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.14-15.00.01:476][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.07.14-15.00.01:489][814]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand1F5D576B48F6819FD8DF03A09621F522.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-15.00.01:498][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-15.00.01:509][814]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltDataC7C4AC0C432FEB7E405776855034BE13.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-15.00.01:518][814]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-15.00.01:518][814]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-15.00.01:518][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-15.00.36:904][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.14-15.01.58:045][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.14-15.01.58:059][404]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand8EE8E5594610E4E32A46CB97C7CE07BC.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-15.01.58:078][404]LogFileHelpers: Saving map 'SkyLand' took 0.044
+[2020.07.14-15.01.58:078][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-15.01.58:101][404]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltDataCE95FDCB4FAE2B457E996EA6FB1F6AC8.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-15.01.58:113][404]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-15.01.58:113][404]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-15.01.58:113][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-15.02.01:556][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.14-15.02.23:293][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.07.14-15.02.40:571][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.07.14-15.03.00:242][874]MapCheck: New page: Map Check
+[2020.07.14-15.03.00:388][874]Cmd: MAP REBUILD ALLVISIBLE
+[2020.07.14-15.03.00:388][874]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.07.14-15.03.00:393][874]LogWorld: UWorld::CleanupWorld for SkyLand, bSessionEnded=true, bCleanupResources=false
+[2020.07.14-15.03.00:450][874]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.07.14-15.03.00:450][874]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.07.14-15.03.00:450][874]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.07.14-15.03.00:461][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.14-15.03.00:491][874]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-15.03.00:676][874]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.14-15.03.03:097][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.07.14-15.03.03:097][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.07.14-15.03.03:097][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.07.14-15.03.03:097][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.07.14-15.03.03:097][874]TextureStreamingBuild: Display: Compiling optional shaders took 2.610 seconds.
+[2020.07.14-15.03.03:163][874]LogLevel: Display: Export Material TexCoord Scales took 0.067 seconds.
+[2020.07.14-15.03.03:169][874]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2020.07.14-15.03.03:178][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.07.14-15.03.03:253][874]LightingResults: New page: Lighting Build - 14 lip 2020, 19:03:03
+[2020.07.14-15.03.03:505][874]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.14-15.03.03:780][874]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.14-15.03.03:797][874]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.14-15.03.04:834][874]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.14-15.03.04:834][874]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15336
+[2020.07.14-15.03.11:869][874]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.14-15.03.11:905][874]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.14-15.03.11:905][874]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.14-15.03.11:905][874]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.14-15.03.11:905][874]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.14-15.03.11:906][874]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.14-15.03.12:268][874]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.07.14-15.03.12:268][874]MapCheck: New page: SkyLand - 14 lip 2020, 19:03:12
+[2020.07.14-15.03.12:288][874]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.07.14-15.03.12:362][874]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 93,312ms to complete.
+[2020.07.14-15.03.12:374][874]LogEditorBuildUtils: Build time 0:12
+[2020.07.14-15.03.12:667][874]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.07.14-15.03.12:675][874]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.07.14-15.03.12:841][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.07.14-15.03.12:842][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.07.14-15.03.12:842][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.07.14-15.03.12:842][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.07.14-15.03.12:842][874]LogSlate: Took 0.039163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.14-15.03.12:872][875]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.07.14-15.03.12:905][875]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.07.14-15.03.12:905][875]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.07.14-15.03.12:905][875]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.07.14-15.03.12:965][876]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.07.14-15.03.12:965][876]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.07.14-15.03.12:965][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.07.14-15.03.12:973][876]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.07.14-15.03.13:933][878]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.07.14-15.03.13:933][878]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.07.14-15.03.13:933][878]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.07.14-15.03.13:933][878]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.07.14-15.03.14:723][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.07.14-15.03.17:714][954]Job is a success!
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.052s
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2020.07.14-15.03.18:192][955]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.14-15.03.18:193][955]LogVolumetricLightmapImport:          SkyLand 			 213 bricks 	 100.0% (Persistent Level)
+[2020.07.14-15.03.18:413][955]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.07.14-15.03.18:413][955]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.07.14-15.03.18:413][955]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.07.14-15.03.18:413][955]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.07.14-15.03.18:503][955]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.07.14-15.03.18:503][955]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.07.14-15.03.18:503][955]Lightmass on DESKTOP-P6SHRJL: 1.94 sec total, 159 ms importing, 19 ms setup, 145 ms photons, 1.58 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 17.4 sec total, 284 ms processing.
+[2020.07.14-15.03.18:504][955]LogStaticLightingSystem: SkyLand_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.07.14-15.03.18:521][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.07.14-15.03.18:567][955]LogStaticLightingSystem: Illumination: 15.2 sec (166 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2020.07.14-15.03.18:567][955]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.07.14-15.03.18:567][955]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.07.14-15.03.18:913][955]DumpUnbuiltLightIteractions
+[2020.07.14-15.03.18:913][955]Lights with unbuilt interactions: 0
+[2020.07.14-15.03.18:913][955]
+[2020.07.14-15.03.18:913][955]Primitives with unbuilt interactions: 0
+[2020.07.14-15.03.19:019][956]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.14-15.03.19:019][956]MapCheck: New page: SkyLand - 14 lip 2020, 19:03:19
+[2020.07.14-15.03.19:019][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,284ms to complete.
+[2020.07.14-15.03.21:208][ 67]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-15.03.21:213][ 67]LogSlate: Window 'Message Log' being destroyed
+[2020.07.14-15.03.28:628][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.14-15.03.28:643][486]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLandBF139A6649063B86994D4BBEAE1DC38E.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-15.03.28:664][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-15.03.28:677][486]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltDataC1EEB510436A0C854D2951AC5C83586B.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-15.03.28:687][486]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-15.03.28:687][486]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-15.03.28:687][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-15.03.29:866][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.07.14-15.03.29:881][554]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLandB35DD42E43DE03536D08A6B7212EC7FA.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand.umap'
+[2020.07.14-15.03.29:889][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkyLand_BuiltData" FILE="../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset" SILENT=true
+[2020.07.14-15.03.29:902][554]LogSavePackage: Moving '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Saved/SkyLand_BuiltData1F0864084392A67C98FAEC9A0CDE94B9.tmp' to '../../../../../../GitHub/SkyLand-Wyspa-marze-/Unreal Engine/SkyLand_Wyspa_mażeń/Content/Maps/SkyLand_BuiltData.uasset'
+[2020.07.14-15.03.29:913][554]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.14-15.03.29:913][554]LogContentValidation: Display: Validating World /Game/Maps/SkyLand.SkyLand
+[2020.07.14-15.03.29:913][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SkyLand_BuiltData.SkyLand_BuiltData
+[2020.07.14-15.03.31:996][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
