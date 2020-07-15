@@ -2300,3 +2300,24 @@ Script Stack (0 frames):
 [2020.07.15-18.25.40:608][ 22]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
 [2020.07.15-18.25.40:681][ 22]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
 [2020.07.15-18.25.40:819][ 22]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.15-18.25.41:040][ 22]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.15-18.25.41:040][ 22]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.15-18.25.41:040][ 22]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.15-18.25.41:040][ 22]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.15-18.25.41:048][ 22]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.15-18.25.41:074][ 22]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.15-18.25.41:074][ 22]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.15-18.25.41:074][ 22]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.15-18.25.41:190][ 22]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.15-18.25.41:191][ 22]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.15-18.25.41:191][ 22]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.15-18.25.41:240][ 22]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.15-18.25.41:240][ 22]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.15-18.25.41:302][ 22]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.15-18.25.41:309][ 22]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.15-18.25.41:526][ 22]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.15-18.25.41:551][ 22]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.07.15-18.25.41:663][ 22]LogD3D11RHI: Shutdown
+[2020.07.15-18.25.41:663][ 22]LogD3D11RHI: CleanupD3DDevice
+[2020.07.15-18.25.43:213][ 22]LogExit: Exiting.
+[2020.07.15-18.25.43:255][ 22]Log file closed, 07/15/20 20:25:43
